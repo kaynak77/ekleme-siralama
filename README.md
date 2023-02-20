@@ -1,3 +1,5 @@
 ekleme-sıralama
-[patika.dev] (http://www.patika.dev)
-[yılmaz kaynak] (http://www.githup.com/kaynak77)
+
+[http://patika.dev] (patika.dev) 
+
+[http://githup.com/kaynak77] (yılmaz kaynak)
